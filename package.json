@@ -1,6 +1,6 @@
 {
   "name": "memory-optimizer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Reduce Memory Footprint of JavaScript Objects",
   "main": "memory-optimizer.js",
   "files": [
